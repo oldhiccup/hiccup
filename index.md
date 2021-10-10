@@ -1,4 +1,5 @@
-#Translate
+# Translate
+
 The commands below are for translation game, send the command and the bot will send you a sentence to translate, pay attention to the translation of the sentence, check the grammar carefully and thank you for contributing.
 
 If you have difficulties with translation you can use the translation tool at https://www.deepl.com/translator is the best for translation and https://languagetool.org/ helps you with grammar.
@@ -9,7 +10,7 @@ If any type of cheating or spam is identified, you will be permanently banned.
 
 In I will provide a rank of the participants with the most XP
 
-===== PORTUGUESE ====
+### ===== PORTUGUESE ====
 
 Os comandos abaixo são para jogo de tradução, envie o comando e o bot enviará uma frase para você traduzir, preste atenção na tradução da frase, verifique a gramática com atenção e obrigado pela contribuição.
 
@@ -22,7 +23,7 @@ Se qualquer tipo de trapaça ou spam for identificado, você será banido perman
 Em vou disponibilizar um rank dos participantes com mais XP
 
 
-======= COMANDOS ======
+## ======= COMANDS ======
 
 - ?translate list
   - It sends you the list of games and languages available for translation.
@@ -37,13 +38,16 @@ Em vou disponibilizar um rank dos participantes com mais XP
   - Envia-te aleatóriamente uma frase de um jogo para tradução para o dioma italiano para o jogo ***Our Home***
 
 
-#lapkjogos.com
+# lapkjogos.com
+
 
 These are commands only for people who speak the Portuguese language.
 
-===== ENGLISH ~~====
+### ===== ENGLISH =====
 
 These are commands only for people who speak the Portuguese language.
+
+## ======= COMANDS ======
 
 - ?lapk
     - Receba uma indicação aleatória de um jogo
