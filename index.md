@@ -1,29 +1,28 @@
-# Translate
-
+#Translate
 The commands below are for translation game, send the command and the bot will send you a sentence to translate, pay attention to the translation of the sentence, check the grammar carefully and thank you for contributing.
 
 If you have difficulties with translation you can use the translation tool at https://www.deepl.com/translator is the best for translation and https://languagetool.org/ helps you with grammar.
 
-The Bot will give you XP for each translation, it will show you how much xp you have earned for each translation, there will be roles for the people who translate the most, these roles  will give early access to new versions of the game and others things.
+The Bot will give you XP for each translation, it will show you how much xp you have earned for each translation, there will be roles for the people who translate the most, these roles  will give early access to new versions of the game and others things. (this is still in development )
 
 If any type of cheating or spam is identified, you will be permanently banned.
 
-In I will provide a rank of the participants with the most XP
+In I will provide a rank of the participants with the most XP (this is still in development )
 
-### ===== PORTUGUESE ====
+===== PORTUGUESE ====
 
-Os comandos abaixo são para jogo de tradução, envie o comando e o bot enviará uma frase para você traduzir, preste atenção na tradução da frase, verifique a gramática com atenção e obrigado pela contribuição.
+Os comandos abaixo são para tradução do jogo, envie o comando e o bot enviará uma frase para você traduzir, preste atenção na tradução da frase, verifique a gramática com atenção e obrigado pela contribuição.
 
 Se tiver dificuldades com a tradução, você pode usar a ferramenta de tradução em https://www.deepl.com/translator é a melhor para tradução e https://languagetool.org/ ajuda você com a gramática.
 
-O Bot lhe dará XP para cada tradução, mostrará quanto XP você ganhou por cada tradução, haverá funções para as pessoas que mais traduzem, essas funções darão acesso antecipado a novas versões do jogo e outras coisas.
+O Bot lhe dará XP para cada tradução, mostrará quanto XP você ganhou por cada tradução, haverá cargos para as pessoas que mais traduzem, esses cargos darão acesso antecipado a novas versões do jogo e outras coisas. (isso ainda está em desenvolvimento)
 
 Se qualquer tipo de trapaça ou spam for identificado, você será banido permanentemente.
 
-Em vou disponibilizar um rank dos participantes com mais XP
+Em vou disponibilizar um rank dos participantes com mais XP (isso ainda está em desenvolvimento)
 
 
-## ======= COMANDS ======
+======= COMANDOS ======
 
 - ?translate list
   - It sends you the list of games and languages available for translation.
@@ -38,16 +37,13 @@ Em vou disponibilizar um rank dos participantes com mais XP
   - Envia-te aleatóriamente uma frase de um jogo para tradução para o dioma italiano para o jogo ***Our Home***
 
 
-# lapkjogos.com
-
-
-These are commands only for people who speak the Portuguese language.
-
-### ===== ENGLISH =====
+#lapkjogos.com
 
 These are commands only for people who speak the Portuguese language.
 
-## ======= COMANDS ======
+===== ENGLISH ~~====
+
+These are commands only for people who speak the Portuguese language.
 
 - ?lapk
     - Receba uma indicação aleatória de um jogo
