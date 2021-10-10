@@ -1,4 +1,7 @@
 # Translate
+
+IMPORTANT : The Portuguese and English languages for Our Home will always be maintained by the team, the other languages maintained by the community. 
+
 The commands below are for translation game, send the command and the bot will send you a sentence to translate, pay attention to the translation of the sentence, check the grammar carefully and thank you for contributing.
 
 If you have difficulties with translation you can use the translation tool at https://www.deepl.com/translator is the best for translation and https://languagetool.org/ helps you with grammar.
@@ -8,8 +11,11 @@ The Bot will give you XP for each translation, it will show you how much xp you 
 If any type of cheating or spam is identified, you will be permanently banned.
 
 In I will provide a rank of the participants with the most XP (this is still in development )
+Em breve também disponibilizaremos um comando para validar a tradução, quem validar a tradução também terá XP. (this is still in development )
 
 ### ===== PORTUGUESE ====
+
+IMPORTANTE : Os idiomas português e inglês para Our Home serão sempre mantidos pela equipe, os outros idiomas mantidos pela comunidade.
 
 Os comandos abaixo são para tradução do jogo, envie o comando e o bot enviará uma frase para você traduzir, preste atenção na tradução da frase, verifique a gramática com atenção e obrigado pela contribuição.
 
@@ -19,7 +25,8 @@ O Bot lhe dará XP para cada tradução, mostrará quanto XP você ganhou por ca
 
 Se qualquer tipo de trapaça ou spam for identificado, você será banido permanentemente.
 
-Em vou disponibilizar um rank dos participantes com mais XP (isso ainda está em desenvolvimento)
+Em vou disponibilizar um rank dos participantes com mais XP  (isso ainda está em desenvolvimento)
+Em breve disponibilizaremos também um comando para validar a tradução, pessoas que validam a tradução também ganham XP. (isso ainda está em desenvolvimento)
 
 
 ### ======= COMANDS ======
